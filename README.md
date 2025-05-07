@@ -40,7 +40,7 @@ git clone https://github.com/seu-usuario/sudoku-java.gi
 
 ### Observações
 
-* Projeto criado com fins educacionais para praticar conceitos de POO, uso de construcot de fluxo, e organização modular do código.
+* Projeto criado com fins educacionais para praticar conceitos de POO
 * Estrutura e código base conforme os ensinamentos do curso DIO.
   
 Argumentos para passar no running do projeto:
